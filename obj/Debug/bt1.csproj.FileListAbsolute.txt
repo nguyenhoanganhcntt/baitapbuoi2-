@@ -1,0 +1,15 @@
+D:\Dev C\bt1\bin\Debug\bt1.exe.config
+D:\Dev C\bt1\bin\Debug\bt1.exe
+D:\Dev C\bt1\bin\Debug\bt1.pdb
+D:\Dev C\bt1\obj\Debug\bt1.csproj.AssemblyReference.cache
+D:\Dev C\bt1\obj\Debug\bt1.csproj.SuggestedBindingRedirects.cache
+D:\Dev C\bt1\obj\Debug\bt1.csproj.CoreCompileInputs.cache
+D:\Dev C\bt1\obj\Debug\bt1.exe
+D:\Dev C\bt1\obj\Debug\bt1.pdb
+D:\tài liệu\bt1\bin\Debug\bt1.exe.config
+D:\tài liệu\bt1\bin\Debug\bt1.exe
+D:\tài liệu\bt1\bin\Debug\bt1.pdb
+D:\tài liệu\bt1\obj\Debug\bt1.csproj.AssemblyReference.cache
+D:\tài liệu\bt1\obj\Debug\bt1.csproj.CoreCompileInputs.cache
+D:\tài liệu\bt1\obj\Debug\bt1.exe
+D:\tài liệu\bt1\obj\Debug\bt1.pdb
